@@ -4,7 +4,7 @@
 
 This repo contains some issues which you can work as exercises. It will take you through som GitHub projects and -issues gymnastics.
 
-You start by generating at new repo under your own profile (or where ever you wnat it), using this one as a template. 
+You start by generating at new repo under your own profile (or where ever you want it), using this one as a template. 
 
 <a href="https://github.com/kea-dev/planetscale/generate"><img width="198" alt="image" src="https://user-images.githubusercontent.com/155492/228839581-5ca9dddd-a39f-4754-811c-92f092517734.png"></a>
 
